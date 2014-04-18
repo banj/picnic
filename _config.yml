@@ -28,8 +28,8 @@ baseurl:      /picnic
 title:        Picnic
 tagline:      Documentation template for Jekyll
 description:  Picnic is a documentation template for Jekyll made by @kasperisager
-url:          http://kasperisager.github.io/picnic
+url:          http://banj.github.io/picnic
 
 author:
-  name:       Kasper Isager
-  url:        https://github.com/kasperisager
+  name:       Ben Donald
+  url:        https://github.com/banj
