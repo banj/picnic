@@ -1,7 +1,7 @@
 ---
 title: Kick the Can
 layout: page
-categories: ["Kittn API"]
+categories: ["Kittn API", "Improv"]
 ---
 
 ## Kick the Can
